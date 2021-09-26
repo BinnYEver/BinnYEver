@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BinnYEver
 - 👀 I’m interested in both front-end and back-end
 - 🌱 I’m currently learning in University of California, San Diego as a computer science graduate student.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on database project or machine learning research
 - 📫 How to reach me: binnybn98@gmail.com
 
 <!---
